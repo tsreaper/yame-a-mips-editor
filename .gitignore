@@ -1,0 +1,4 @@
+*.bat
+*.pyc
+__pycache__
+bin
